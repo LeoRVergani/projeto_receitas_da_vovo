@@ -15,9 +15,31 @@
 }
 
 body {
-    background-color: #F6BE8C;
+    background-color: #e8ae96;
     font-family: "Pixelify Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: larger;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body > header {
+    background: #e47f83;
+    font-size: 24px;
+    padding: 20px 0;
+    display: flex;
+
+} 
+
+.menu {
+    background-color: #e47f83;
+    color: #e47f83;
+}
+
+.cabecalho {
+    padding: 0;
+    margin: 0;
+    border-top: 0cap;
 }
