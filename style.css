@@ -1,3 +1,23 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 700
+
+.pixelify-sans-<uniquifier> {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.medievalsharp-regular {
+    font-family: "Pixelify Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 body {
     background-color: #F6BE8C;
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: larger;
 }
